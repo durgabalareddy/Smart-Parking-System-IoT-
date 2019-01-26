@@ -18,3 +18,9 @@
 <img src="https://github.com/durgabalareddy/Smart-Parking-System-IoT-/blob/master/images/prototype2.png?raw=true" width=500 height=300>
 <img src="https://github.com/durgabalareddy/Smart-Parking-System-IoT-/blob/master/images/web%20home%20page.png?raw=true" width=500 height=300>
 <img src="https://github.com/durgabalareddy/Smart-Parking-System-IoT-/blob/master/images/web%20interface.png?raw=true" width=500 height=300>
+
+### links
+
+* webpage https://smartparkingiot.github.io
+* app https://gonative.io/share/lwqeye
+* project synopsis https://drive.google.com/file/d/0Bxf_FT0yk2aramVvUXJncDBZQVVZR3JiVGNMR1BfTElhUHhV/view?usp=sharing
